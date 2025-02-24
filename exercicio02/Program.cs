@@ -1,4 +1,4 @@
-﻿// See https://double calculo = 0;
+﻿double calculo = 0;
 Console.WriteLine("Digite M se for masculino F se for feminino");
 string sexo = Console.ReadLine().ToLower();
 Console.WriteLine("Digite sua altura");
