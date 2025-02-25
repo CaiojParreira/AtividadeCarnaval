@@ -8,7 +8,7 @@ if (sexo == "m")
 {
     calculo = (72.2 * alt) - 58;
 }
-else if (sexo == "f")//
+else if (sexo == "f")
 {
     calculo = (62.1 * alt) - 44.7;
 }
